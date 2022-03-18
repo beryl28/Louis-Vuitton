@@ -61,6 +61,75 @@ li
     display: flex;
 }
 .worldimage {
+<<<<<<< HEAD
+  display: block;
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.MyText {
+  padding-top: 20px;  
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size:xx-small;
+}
+.MyTex {  
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+}
+.art-head {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.25rem;
+  letter-spacing: 0;
+  line-height: 1.5rem;
+  font-weight: 600;
+  color: inherit;
+  text-transform: uppercase;
+  display: flex;
+  flex-shrink: 1;
+}
+.container-art {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 400;
+
+}
+.art-show {
+  margin-left: 1300px;
+  border: 16px;
+}
+
+.flex-box {
+list-style-type: none;
+display: flex;
+flex-grow: inherit;
+gap: 30px;
+}
+.Nav {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 12px;
+display: flex;
+justify-content: end;
+
+}
+.list-art {
+  list-style-type: none;
+  display: flex;
+  border-left: 8px;
+  gap: 16px;
+}
+.hr-art {
+  height: 20px;
+  margin: 0;
+  padding: 0;
+
+}
+figcaption {
+ font-size: 8pt;
+}
+      
+=======
         display: block;
         margin-top: 10%;
         margin-left: auto;
@@ -78,3 +147,4 @@ li
           font-family: Verdana, Geneva, Tahoma, sans-serif;
           font-size: large;
       }
+>>>>>>> 543f101b5eb0c4656ab15460f553537db9f00327
