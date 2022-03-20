@@ -148,3 +148,56 @@ figcaption {
           font-size: large;
       }
 >>>>>>> 543f101b5eb0c4656ab15460f553537db9f00327
+.spring-heading{
+  text-align: center;
+  padding-top: 10px;
+  
+
+}
+.spring-container{
+  
+}
+.spring-nav{
+  display:flex;
+  justify-content:space-around;
+}
+.spring{
+  display:flex;
+  column-gap:75px;
+  margin:0;
+  float:none;
+  justify-content:end;
+  flex-direction:row;
+  width:100%;
+}
+.sp{
+  padding: 20px;
+}
+.nav-link{
+  text-decoration:none;
+  justify-content:space-around;
+  flex-direction:row;
+  padding: 20px;
+}
+.spring .nav-link{
+  border: right 2px;
+  padding:20px 40 px:
+}
+.spring .nav-link .last {
+  border-right:none;
+}
+.spring-images{
+  display:flex;
+  justify-content:space-around;
+  padding: 25px;
+}
+.spring-heading{
+  padding:10px;
+
+  font-weight:bold;
+  font-style:bold;
+}
+.spring-nav{
+  display:flex;
+  justify-content:space-around;
+}
